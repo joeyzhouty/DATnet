@@ -1,8 +1,8 @@
 #  Dual Adversarial Neural Transfer for Low-Resource Named Entity Recognition
 
 Source codes for 
-* *Joey Tianyi Zhou*, Hao Zhang*, Di Jin, Hongyuan Zhu, Meng Fang, Rick Siow Mong Goh and Kenneth Kwok, "Dual Adversarial Neural Transfer for Low-Resource Named Entity Recognition", The 57th Annual Meeting of the Association for Computational Linguistics (ACL 2019, Long Paper, oral), Florence, Italy, 2019.** 
-* *Joey Tianyi Zhou*, Hao Zhang*, Di Jin, Xi Peng, "Dual Adversarial Neural Transfer for Sequence Labeling", IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI), 2019.** 
+* Joey Tianyi Zhou*, Hao Zhang*, Di Jin, Hongyuan Zhu, Meng Fang, Rick Siow Mong Goh and Kenneth Kwok, "Dual Adversarial Neural Transfer for Low-Resource Named Entity Recognition", The 57th Annual Meeting of the Association for Computational Linguistics (ACL 2019, Long Paper, oral), Florence, Italy, 2019.
+* Joey Tianyi Zhou*, Hao Zhang*, Di Jin, Xi Peng, "Dual Adversarial Neural Transfer for Sequence Labeling", IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI), 2019.
 
 If you feel this project helpful to your research, please cite the following paper
 ```bibtex
